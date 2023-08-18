@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marifanpermadi
-- 👀 I’m interested in Women
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning to code and cook
 - 💞️ I’m looking to collaborate on anything that i can contribute to
 - 📫 Email me at marifanpermadi@gmail.com
